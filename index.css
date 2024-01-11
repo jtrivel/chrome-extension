@@ -1,0 +1,35 @@
+body {
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	color: #5f9341;
+	min-width: 400px;
+}
+
+input {
+	border: 1px solid #5f9341;
+	padding: 10px;
+}
+
+button {
+	background: #5f9341;
+	color: #ffffff;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: 1px solid #5f9341;
+}
+
+#delete-btn {
+	background: #ffffff;
+	border: 1px solid #5f9341;
+	color: #5f9341;
+}
+
+ul {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
